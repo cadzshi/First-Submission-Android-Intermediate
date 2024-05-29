@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita atau ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="error_message_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="email_validation">Input email tidak sesuai</string>
+    <string name="name_story">Nama Cerita</string>
+    <string name="description_story">Deskripsi Cerita</string>
+    <string name="photo_story">Foto Cerita</string>
+    <string name="detail_story">Cerita %s</string>
+    <string name="logout_validation">Apakah kamu yakin mau keluar?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="success">Yeah!</string>
+    <string name="regist_success_msg">Akun sudah jadi nih. Yuk, berbagi ceritamu di Dicoding Story!</string>
+    <string name="next">Lanjut</string>
+    <string name="failed">Maaf</string>
+    <string name="regist_failed_msg">Akun gagal dibuat, silahkan mendaftar ulang</string>
+    <string name="back">Kembali</string>
+    <string name="add_story">Menambahkan Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Silahkan masukkan gambar terlebih dahulu</string>
+    <string name="login_success_msg">Anda berhasil login. Sudah tidak sabar berbagi pengalaman ya?</string>
+    <string name="login_failed_msg">Anda gagal login. silahkan login kembali</string>
+    <string name="language">Bahasa</string>
+</resources>

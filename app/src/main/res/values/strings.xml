@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to share stories or knowledge about Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just Dicoding Story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="error_message_password">Password must not be less than 8 characters</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="email_validation">Incorrect email input</string>
+
+    <string name="name_story">Story Name</string>
+    <string name="description_story">Story Description</string>
+    <string name="photo_story">Story Photo</string>
+    <string name="detail_story">%s\'s Story</string>
+    <string name="logout_validation">Are you sure you want to Logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success">Yeah!</string>
+    <string name="regist_success_msg">The account is ready. Come on, share your story on Dicoding Story!</string>
+    <string name="next">Continue</string>
+    <string name="failed">Sorry</string>
+    <string name="regist_failed_msg">Account failed to create, please re-register</string>
+    <string name="back">Back</string>
+    <string name="add_story">Adding Stories</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please enter an image first</string>
+    <string name="login_success_msg">You have successfully logged in. Can\'t wait to share your experiences, right?</string>
+    <string name="login_failed_msg">You failed to log in. please log in again</string>
+    <string name="language">Language</string>
+
+</resources>

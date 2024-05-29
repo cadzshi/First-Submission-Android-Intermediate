@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Ayo sharing cerita utawa pengetahuan tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, lan bidang IT liyane. Langsung Dicoding Story!</string>
+    <string name="title_welcome_page">Sugeng rawuh ing Dicoding Story!</string>
+    <string name="title_signup_page">Lengkapake data sampeyan ing ngisor iki</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="error_message_password">Sandi ora boleh kurang saka 8 karakter</string>
+    <string name="message_login_page">Ketik data sampeyan mula</string>
+    <string name="title_login_page">Apakah sampeyan siap kanggo menehi cerita sampeyan?</string>
+    <string name="name">Jeneng</string>
+    <string name="logout">Logout</string>
+    <string name="email_validation">Input email ora bener</string>
+
+    <string name="name_story">Jeneng Cerita</string>
+    <string name="description_story">Deskripsi Cerita</string>
+    <string name="photo_story">Foto Cerita</string>
+    <string name="detail_story">Cerita %s</string>
+    <string name="logout_validation">Apa sampeyan yakin pengin Logout?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Ora</string>
+    <string name="success">Iyo!</string>
+    <string name="regist_success_msg">Akun wis siap. Ayo, bagikan ceritane ing Dicoding Story!</string>
+    <string name="next">Terus</string>
+    <string name="failed">Maaf</string>
+    <string name="regist_failed_msg">Gagal ndaftar akun, mangga daftar maneh</string>
+    <string name="back">Mundhut</string>
+    <string name="add_story">Nambahi Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Mangga masukkan gambar dulu</string>
+    <string name="login_success_msg">Sampeyan wis sukses login. Ora bisa nunggu kanggo menehi pengalaman, to?</string>
+    <string name="login_failed_msg">Sampeyan gagal login. mangga login maneh</string>
+    <string name="language">Basa</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MidSubmissionIntermediate" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Transition -->
+
+    </style>
+
+    <style name="Theme.MidSubmissionIntermediate" parent="Base.Theme.MidSubmissionIntermediate" />
+
+</resources>

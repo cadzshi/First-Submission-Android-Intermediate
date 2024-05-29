@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="signup">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="message_welcome_page">¿Quieres compartir historias o conocimientos sobre Android, iOS, Machine Learning, Cloud, Front-End, Back-End y otros campos de IT? ¡Solo en Dicoding Story!</string>
+    <string name="title_welcome_page">¡Bienvenido a Dicoding Story!</string>
+    <string name="title_signup_page">Completa tus datos a continuación</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="error_message_password">La contraseña no debe tener menos de 8 caracteres</string>
+    <string name="message_login_page">Ingresa tus datos primero</string>
+    <string name="title_login_page">¿Estás listo para compartir tu historia?</string>
+    <string name="name">Nombre</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="email_validation">Entrada de correo electrónico incorrecta</string>
+
+    <string name="name_story">Nombre de la historia</string>
+    <string name="description_story">Descripción de la historia</string>
+    <string name="photo_story">Foto de la historia</string>
+    <string name="detail_story">Historia de %s</string>
+    <string name="logout_validation">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="success">¡Sí!</string>
+    <string name="regist_success_msg">La cuenta está lista. ¡Vamos, comparte tu historia en Dicoding Story!</string>
+    <string name="next">Continuar</string>
+    <string name="failed">Lo siento</string>
+    <string name="regist_failed_msg">Error al crear la cuenta, por favor regístrese de nuevo</string>
+    <string name="back">Volver</string>
+    <string name="add_story">Agregar historias</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+    <string name="empty_image_warning">Por favor, ingresa una imagen primero</string>
+    <string name="login_success_msg">Has iniciado sesión correctamente. ¿No puedes esperar para compartir tus experiencias, verdad?</string>
+    <string name="login_failed_msg">No pudiste iniciar sesión. Por favor, inicia sesión de nuevo</string>
+    <string name="language">Idioma</string>
+
+</resources>
